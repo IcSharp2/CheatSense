@@ -1,5 +1,3 @@
-# Logs If The File Is Opened
-
 import os
 
 def login_message():
